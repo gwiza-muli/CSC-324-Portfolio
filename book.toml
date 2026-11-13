@@ -1,4 +1,8 @@
 [book]
 title = "Muligande Sheilla Portfolio"
-authors = []
+authors = ["Sheilla Muligande"]
 language = "en"
+
+[output.html]
+site-url = "/CSC-324-Portfolio/"
+git-repository-url = "https://github.com/gwiza-muli/CSC-324-Portfolio"
