@@ -25,3 +25,7 @@
 - [Self-Learning](engineering/self-learning.md)
 - [Process](engineering/process.md)
 - [Collaboration](engineering/collaboration.md)
+
+# Advanced Competencies
+
+- [User Interface Design](advanced/ui-design.md)
